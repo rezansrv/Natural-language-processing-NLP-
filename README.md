@@ -44,7 +44,7 @@ To clone and run this project, follow these steps:
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your_username/Natural-language-processing-NLP-.git
+git clone https://github.com/rezansrv/Natural-language-processing-NLP-.git
 cd Natural-language-processing-NLP-
 ```
 ### 2. Install Dependencies:
